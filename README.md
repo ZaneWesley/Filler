@@ -7,3 +7,6 @@ Strategy game based off Game Pigeon's iMessage game Filler and Jake Rogers open-
 3. You cannot change the color of your tiles into the color of your opponent's tiles
 4. The game ends when there are no more tiles to occupy
 5. The player with the most tiles wins
+
+## Play Now!
+<a href="https://fillergame.herokuapp.com">https://fillergame.herokuapp.com</a>
